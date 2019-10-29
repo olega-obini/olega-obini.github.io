@@ -4969,7 +4969,7 @@ textarea {
     padding: 2rem 5rem;
     position: relative;
     width: 80%;
-    margin: -10em auto 20px
+    margin: -6em auto 20px
 }
 
 @media (max-width: 992px) {
@@ -4992,8 +4992,8 @@ textarea {
 }
 
 .black-image-project-hover img {
-    -webkit-filter: contrast(200%) grayscale(100%);
-    filter: contrast(200%) grayscale(100%);
+    -webkit-filter: contrast(50%);
+    filter: contrast(50%);
     -webkit-transition: all .1s linear;
     -o-transition: all .1s linear;
     transition: all .1s linear
