@@ -759,9 +759,9 @@ pre code {
     }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 1238px) {
     .container {
-        width: 970px
+        width: 1238px
     }
 }
 
@@ -3701,11 +3701,11 @@ tbody.collapse.in {
 }
 
 .navbar-default .navbar-brand {
-    color: #000
+    color: #fff
 }
 
 .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
-    color: #000;
+    color: #fff;
     background-color: transparent
 }
 
@@ -3714,7 +3714,7 @@ tbody.collapse.in {
 }
 
 .navbar-default .navbar-nav > li > a {
-    color: #000
+    color: #fff
 }
 
 .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
@@ -3795,7 +3795,7 @@ tbody.collapse.in {
 }
 
 .navbar-inverse {
-    background-color: #b9ff9d6b;
+    /*background-color: #b9ff9d6b;*/
     border-color: transparent
 }
 
