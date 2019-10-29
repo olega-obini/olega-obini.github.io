@@ -740,8 +740,8 @@ pre code {
 .container {
     margin-right: auto;
     margin-left: auto;
-    padding-left: 15px;
-    padding-right: 15px
+    /*padding-left: 15px;*/
+    /*padding-right: 15px*/
 }
 
 .container:after, .container:before {
@@ -753,23 +753,23 @@ pre code {
     clear: both
 }
 
-@media (min-width: 768px) {
-    .container {
-        width: 750px
-    }
-}
+/*@media (min-width: 768px) {*/
+/*    .container {*/
+/*        width: 750px*/
+/*    }*/
+/*}*/
 
 @media (min-width: 1238px) {
     .container {
-        width: 1238px
+        width: 1440px
     }
 }
 
-@media (min-width: 1200px) {
-    .container {
-        width: 1536px
-    }
-}
+/*@media (min-width: 1200px) {*/
+/*    .container {*/
+/*        width: 1536px*/
+/*    }*/
+/*}*/
 
 .container-fluid {
     margin-right: auto;
